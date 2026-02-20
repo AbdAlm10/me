@@ -17,7 +17,6 @@ I am passionate about continuous learning, exploring new tools, and embracing on
 ## 🎓 Education
 
 | Institution | Degree | Duration |
-|---|---|---|
 | Aleppo university |  |  -  |
 
 ###  in IT
