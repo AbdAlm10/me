@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://tr.pinterest.com/pin/41025046602465741/" alt="Profile Banner" width="100%" />
-</div>
-
-<div align="center">
 
 # Hi 👋, I'm Abdulrahman
 
-### A passionate developer from [Your Location]
+### A passionate developer from SYRIA 🇸🇾
 
 </div>
 
@@ -28,15 +24,10 @@ I am passionate about continuous learning, exploring new tools, and embracing on
 ## 🛠️ Skills & Technologies
 
 <img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />
-
 <img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84?size=32" alt="Android"  />
-
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass/CC6699?size=32" alt="Sass"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
-
 <img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
-
 <img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js"  />
-
 <img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
 
 ---
