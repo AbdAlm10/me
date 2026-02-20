@@ -35,7 +35,7 @@ I am passionate about continuous learning, exploring new tools, and embracing on
 
 ### 💻 Programming Languages
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />
+<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />
 
 ### 💻 Mobile App Development
 
@@ -47,7 +47,7 @@ I am passionate about continuous learning, exploring new tools, and embracing on
 
 ### 💻 Software
 
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF?size=32" alt="Adobe Photoshop"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00?size=32" alt="Adobe Illustrator"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
+<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
 
 ### 💻 Static Site Generators
 
