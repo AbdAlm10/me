@@ -8,8 +8,6 @@
 
 ## 🚀 About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdAlm10&color=green)  
-![Followers](https://img.shields.io/github/followers/AbdAlm10?label=Followers&style=social)  
-![Stars](https://img.shields.io/github/stars/AbdAlm10?label=Stars&style=social)
 
 I am passionate about continuous learning, exploring new tools, and embracing ongoing challenges. I thrive in collaborative environments and value teamwork. Dedication and growth are my guiding principles , I like the idea of creating a business based on programming.
 
