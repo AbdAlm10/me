@@ -11,8 +11,8 @@
 
 I am passionate about continuous learning, exploring new tools, and embracing ongoing challenges. I thrive in collaborative environments and value teamwork. Dedication and growth are my guiding principles , I like the idea of creating a business based on programming.
 
-###  in IT
-*Aleppo university*
+###*Aleppo university*
+## (IT 2028)
 
 ## 🌐 Connect with Me
 
