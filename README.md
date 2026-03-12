@@ -6,13 +6,12 @@
 
 </div>
 
+###Aleppo university (IT 2028)
+
 ## 🚀 About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdAlm10&color=green)  
 
 I am passionate about continuous learning, exploring new tools, and embracing ongoing challenges. I thrive in collaborative environments and value teamwork. Dedication and growth are my guiding principles , I like the idea of creating a business based on programming.
-
-###*Aleppo university*
-## (IT 2028)
 
 ## 🌐 Connect with Me
 
