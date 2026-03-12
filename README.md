@@ -22,40 +22,38 @@ I am passionate about continuous learning, exploring new tools, and embracing on
 
 </div>
 
-## 🛠️ Skills & Technologies
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a>
 </p>
 
-### Mobile & Frontend
+### Frameworks & Mobile
 <p>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" /></a>
 </p>
 
 ### Styling
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>
 </p>
 
 ### Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
 </p>
-
-</div>
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
