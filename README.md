@@ -3,19 +3,9 @@
 # Hi 👋, I'm Abdulrahman
 
 ### A Front-End developer (web - mobile)
-
-</div>
-
 ### Aleppo university (IT 2028)
 
-## 🚀 About Me
-![Profile Views](https://komarev.com/ghpvc/?username=AbdAlm10&color=green)  
-
-I am passionate about continuous learning, exploring new tools, and embracing ongoing challenges. I thrive in collaborative environments and value teamwork. Dedication and growth are my guiding principles , I like the idea of creating a business based on programming.
-
-## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdalm10/)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AbdAlmSY)
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +27,16 @@ I am passionate about continuous learning, exploring new tools, and embracing on
 <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
 </p>
+
+## 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=AbdAlm10&color=green)  
+
+I am passionate about continuous learning, exploring new tools, and embracing ongoing challenges. I thrive in collaborative environments and value teamwork. Dedication and growth are my guiding principles , I like the idea of creating a business based on programming.
+
+
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdalm10/)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AbdAlmSY)
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
