@@ -9,8 +9,8 @@
 
 ## 🛠️ Tech Stack
 
-##Languages##
-<div style="overflow-x: auto; white-space: nowrap;">
+<h3>Languages</h3>
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 8px;">
   <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
