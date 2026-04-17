@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
+<p style="display: inline-block">
 <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
